@@ -24,3 +24,5 @@ Step2: Open automate.py in your favourite Code Editor. Update "path" and "downlo
 Step3: Open Command Prompt, type "python automate.py".
 This will automatically download the latest pdf on URL "https://dsssb.delhi.gov.in/dsssb/latest-updates" in your specified location. 
 
+Note:- With this method, you dont need to update your browser's settings
+
