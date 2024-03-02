@@ -9,7 +9,7 @@ Step1: Privacy and Security -> Site Settings -> Additional content settings -> P
 
 Step2: Downloads -> Deselect "Ask where to save each file before downloading"
 
-Step3: Open Selenium IDE -> Open Existing Project -> Select Microsoft.side provided here
+Step3: Open Selenium IDE -> Open Existing Project -> Select "Microsoft.side" file provided here
 
 Step4: Run tests to automatically download the latest pdf on URL "https://dsssb.delhi.gov.in/dsssb/latest-updates"
 
@@ -19,7 +19,7 @@ Note: This won't work on selenium command line runner as your google chrome sett
 
 Step1: Make sure you have python installed on your system.
 
-Step2: Open automate.py in your favourite Code Editor. Update "path" and "download_directory" with your desired location to store downloaded PDF.
+Step2: Open "automate.py" in your favourite Code Editor. Update "path" and "download_directory" with your desired location to store downloaded PDF.
 
 Step3: Open Command Prompt, type "python automate.py".
 This will automatically download the latest pdf on URL "https://dsssb.delhi.gov.in/dsssb/latest-updates" in your specified location. 
